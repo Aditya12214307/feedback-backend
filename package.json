@@ -1,0 +1,24 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aditya12214307/feedback-backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aditya12214307/feedback-backend/issues"
+  },
+  "homepage": "https://github.com/Aditya12214307/feedback-backend#readme",
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
